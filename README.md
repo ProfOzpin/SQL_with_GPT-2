@@ -41,8 +41,8 @@ CREATE TABLE Invoices (InvoiceID INT PRIMARY KEY, ReservationID INT, Amount DECI
 
 ## Current Progress
 
-As of this moment, SQL with GPT-2 has been trained on 4000 tokens via Google Colab.
+As of this moment, SQL with GPT-2 has been trained on **14000** tokens via Google Colab.
 
-* Next goal: 10,000 tokens. 
-* Expected update: 13/09/2023
+* Next goal: 30,000 tokens. 
+* Expected update: 20/09/2023
 
